@@ -1,4 +1,4 @@
-#lang scheme
+#lang sicp
 
 (define (square x)
   (* x x))

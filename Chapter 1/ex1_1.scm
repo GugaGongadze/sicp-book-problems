@@ -1,4 +1,4 @@
-#lang scheme
+#lang sicp
 
 10 ; 10
 
